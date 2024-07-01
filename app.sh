@@ -9,3 +9,4 @@ Jonas: a + b - c = d
 a -b - c - d -e -f - g = ola
 
 >>>>>>> 6c86fb34ef3d49fad630f62831d89aebbafbdc30
+mbohlip: d-c-b-a=e
