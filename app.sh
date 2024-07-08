@@ -1,3 +1,4 @@
+main
  main
  HEAD
 git trial
@@ -15,5 +16,10 @@ mbohlip: d-c-b-a=e
 a+b=c
 a-b-c=d
 a x b x c x d = f
-jeannyma: d + e + f = g
+jeannyma: d + e + f 
+
+a+b=c
+a-b-c=d
+a x b x c x d = f
+jeannyma: d + e + f 
 main
